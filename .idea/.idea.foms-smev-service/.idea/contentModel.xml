@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\asadykov\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\asadykov\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\asadykov\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_foms-smev-service.1356422207.00" t="ExcludeRecursive" />
+    <e p="D:\repos\foms-smev-service" t="IncludeFlat">
+      <e p="Elcom" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="NextController.cs" t="Include" />
+          <e p="SheetsController.cs" t="Include" />
+        </e>
+        <e p="Elcom.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="DataWorkers" t="Include">
+            <e p="dataWorker.cs" t="Include" />
+            <e p="ExcelWorker.cs" t="Include" />
+            <e p="ImportWorker.cs" t="Include" />
+          </e>
+          <e p="DbCaller.cs" t="Include" />
+          <e p="DbCommands" t="Include">
+            <e p="ArrayCommand.cs" t="Include" />
+            <e p="dbCommand.cs" t="Include" />
+            <e p="FunctionCommand.cs" t="Include" />
+            <e p="ProcedureCommand.cs" t="Include" />
+            <e p="ScalarCommand.cs" t="Include" />
+            <e p="TextCommand.cs" t="Include" />
+          </e>
+          <e p="ErrorViewModel.cs" t="Include" />
+          <e p="Param.cs" t="Include" />
+          <e p="Spec" t="Include">
+            <e p="DelayedPositions.cs" t="Include" />
+          </e>
+          <e p="Statics" t="Include">
+            <e p="ConfigSpace.cs" t="Include" />
+            <e p="FileHolder.cs" t="Include" />
+            <e p="Helper.cs" t="Include" />
+            <e p="Options.cs" t="Include" />
+            <e p="OptionsLists.cs" t="Include" />
+            <e p="Sheets.cs" t="Include" />
+          </e>
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Elcom.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+          <e p="PublishProfiles" t="Include">
+            <e p="CustomProfile.pubxml" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Home" t="Include">
+            <e p="About.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+            <e p="Test.cshtml" t="Include" />
+            <e p="Test1.cshtml" t="Include" />
+          </e>
+          <e p="Next" t="Include">
+            <e p="Main.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_CookieConsentPartial.cshtml" t="Include" />
+            <e p="_Input.cshtml" t="Include" />
+            <e p="_InventoryInput.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_PartialOrExcelSubmit.cshtml" t="Include" />
+            <e p="_TargetTable.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Sheets" t="Include">
+            <e p="_DelayedSO.cshtml" t="Include" />
+            <e p="_GetAddToIPO.cshtml" t="Include" />
+            <e p="_GetDelayedIPO.cshtml" t="Include" />
+            <e p="_GetDelayedSO.cshtml" t="Include" />
+            <e p="_GetGTD.cshtml" t="Include" />
+            <e p="_GetKPIMZ.cshtml" t="Include" />
+            <e p="_GetLackOfItems.cshtml" t="Include" />
+            <e p="_GetLackOfItemsForSO.cshtml" t="Include" />
+            <e p="_GetLoadPrice.cshtml" t="Include" />
+            <e p="_GetLoadPurchasePriceToQuote.cshtml" t="Include" />
+            <e p="_GetReception.cshtml" t="Include" />
+            <e p="_GetRejectedSO.cshtml" t="Include" />
+            <e p="_GetShipmentFromVendor.cshtml" t="Include" />
+            <e p="_GetUpdateDeliveryDates.cshtml" t="Include" />
+            <e p="_LoadPrice.cshtml" t="Include" />
+            <e p="_LoadPurchasePriceToQuote.cshtml" t="Include" />
+            <e p="_SheetLoadPurchasePriceToQuote.cshtml" t="Include" />
+            <e p="_UpdateDeliveryDates.cshtml" t="Include" />
+            <e p="Main.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+            <e p="site.min.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="Files" t="Include">
+            <e p="Test.xlsx" t="Include" />
+          </e>
+          <e p="images" t="Include">
+            <e p="banner1.svg" t="Include" />
+            <e p="banner2.svg" t="Include" />
+            <e p="banner3.svg" t="Include" />
+          </e>
+          <e p="Import" t="Include">
+            <e p="GetUpdateDeliveryDates.txt" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+            <e p="site.min.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-theme.css" t="Include" />
+                  <e p="bootstrap-theme.css.map" t="Include" />
+                  <e p="bootstrap-theme.min.css" t="Include" />
+                  <e p="bootstrap-theme.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="fonts" t="Include">
+                  <e p="glyphicons-halflings-regular.eot" t="Include" />
+                  <e p="glyphicons-halflings-regular.svg" t="Include" />
+                  <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff" t="Include" />
+                  <e p="glyphicons-halflings-regular.woff2" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="npm.js" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p=".bower.json" t="Include" />
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+          <e p="Templates" t="Include">
+            <e p="AddToIPO.xlsx" t="Include" />
+            <e p="KPI МЗ ЗК.xlsx" t="Include" />
+            <e p="KPI МЗ КП.xlsx" t="Include" />
+            <e p="KPI МЗ.xlsx" t="Include" />
+            <e p="OldTemplates" t="Include">
+              <e p="KPI МЗ.xlsx" t="Include" />
+              <e p="ГТД.xlsx" t="Include" />
+              <e p="Дефицит под ЗК.xlsx" t="Include" />
+              <e p="Загрузка цен в ЗП.xlsx" t="Include" />
+              <e p="Задерживается ЗК.xlsx" t="Include" />
+              <e p="Задерживается ЗП.xlsx" t="Include" />
+              <e p="Обновление дат.xlsx" t="Include" />
+              <e p="Отказы по ЗК.xlsx" t="Include" />
+              <e p="Приемка.xlsx" t="Include" />
+              <e p="Список недостающих товаров.xlsx" t="Include" />
+              <e p="Сроки.xlsx" t="Include" />
+            </e>
+            <e p="ГТД.xlsx" t="Include" />
+            <e p="Дефицит под ЗК.xlsx" t="Include" />
+            <e p="Загрузка цен в ЗП.xlsx" t="Include" />
+            <e p="Задерживается ЗП.xlsx" t="Include" />
+            <e p="Обновление дат.xlsx" t="Include" />
+            <e p="Отгрузка от поставщика.xlsx" t="Include" />
+            <e p="Отказы по ЗК.xlsx" t="Include" />
+            <e p="Приемка.xlsx" t="Include" />
+            <e p="Список недостающих товаров.xlsx" t="Include" />
+            <e p="Сроки.xlsx" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="foms-smev-service.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

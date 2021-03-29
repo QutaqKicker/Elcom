@@ -1,0 +1,13 @@
+﻿<form>
+    <div class="row">
+        <div class="col">
+            <input type="text" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="№ ЗП" placeholder="№ ЗП" name="numberIPO" id="GetLoadPriceIPONumber" required>
+        </div>
+    </div>
+    
+    <div class="row">
+        <div class="col">
+            <button type="button" class="btn btn-outline-primary btn-sm btn-block workingButton" onclick='$("#TargetTable").load("/Sheets/GetLoadPrice?numberIPO=" + document.getElementById("GetLoadPriceIPONumber").value);'>Выгрузить данные о строках в ЗП</button>
+        </div>
+    </div>
+</form>

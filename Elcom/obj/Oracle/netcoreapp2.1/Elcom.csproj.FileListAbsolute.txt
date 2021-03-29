@@ -1,0 +1,320 @@
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.deps.json
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.json
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.dev.json
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.dll
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.pdb
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.dll
+c:\Users\asadykov\source\repos\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.pdb
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CoreCompileInputs.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfoInputs.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfo.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.input.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.output.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorCoreGenerate.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\Purchaser.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_AddToIPO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedIPO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedSO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPrice.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_SheetLoadPurchasePriceToQuote.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_UpdateDeliveryDates.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cache
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.Views.pdb
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.dll
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.pdb
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CopyComplete
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csprojAssemblyReference.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CoreCompileInputs.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfoInputs.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfo.cs
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.deps.json
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.json
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.dev.json
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.dll
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.input.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.output.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorCoreGenerate.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\Purchaser.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_AddToIPO.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_Dates.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedIPO.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedSO.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GTD.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_KPIMZ.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LackOfItems.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LackOfItemsSheetForSO.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPrice.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_Receive.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_RejectedSO.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_SheetLoadPurchasePriceToQuote.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_UpdateDeliveryDates.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cache
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cs
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.dll
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.dll
+F:\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CopyComplete
+F:\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csprojAssemblyReference.cache
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.deps.json
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.json
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.dev.json
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.dll
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.dll
+F:\Downloads\Test13\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csprojAssemblyReference.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CoreCompileInputs.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfoInputs.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfo.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.input.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.output.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorCoreGenerate.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test1.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\Purchaser.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_AddToIPO.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedSO.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPrice.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LackOfItems.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPrice.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_SheetLoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_UpdateDeliveryDates.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cache
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.dll
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CopyComplete
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedIPO.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedPositions.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetGTD.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetKPIMZ.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItemsForSO.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetReception.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetRejectedSO.g.cshtml.cs
+F:\Downloads\Test13\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetShipmentFromVendor.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.deps.json
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.json
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.dev.json
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.dll
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.dll
+F:\Downloads\Test13 (1)\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csprojAssemblyReference.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CoreCompileInputs.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfoInputs.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfo.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.input.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.output.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorCoreGenerate.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test1.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\Purchaser.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_AddToIPO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedIPO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedSO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedIPO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedPositions.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedSO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetGTD.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetKPIMZ.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItems.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItemsForSO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPrice.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetReception.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetRejectedSO.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetShipmentFromVendor.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPrice.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_SheetLoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_UpdateDeliveryDates.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cache
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cs
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.dll
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Downloads\Test13 (1)\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CopyComplete
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test1.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedIPO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedPositions.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedSO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetGTD.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetKPIMZ.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItems.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItemsForSO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPrice.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPurchasePriceToQuote.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetReception.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetRejectedSO.g.cshtml.cs
+c:\Users\asadykov\source\repos\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetShipmentFromVendor.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.deps.json
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.json
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.dev.json
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.dll
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.dll
+F:\Downloads\Test15\Elcom\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csprojAssemblyReference.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CoreCompileInputs.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfoInputs.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfo.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.input.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.output.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorCoreGenerate.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test1.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\Purchaser.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_AddToIPO.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_DelayedSO.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedIPO.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetDelayedSO.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetGTD.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetKPIMZ.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItems.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLackOfItemsForSO.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPrice.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetLoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetReception.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetRejectedSO.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_GetShipmentFromVendor.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPrice.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_LoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_SheetLoadPurchasePriceToQuote.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_TargetTable.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Purchaser\_UpdateDeliveryDates.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_InventoryInput.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_PartialOrExcelSubmit.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cache
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cs
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.Views.pdb
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.dll
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.pdb
+F:\Downloads\Test15\Elcom\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CopyComplete
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csprojAssemblyReference.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CoreCompileInputs.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorAssemblyInfo.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfoInputs.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.AssemblyInfo.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.dll
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.pdb
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.deps.json
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.json
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.runtimeconfig.dev.json
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.dll
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.pdb
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.dll
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\bin\Oracle\netcoreapp2.1\Elcom.Views.pdb
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.input.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.TagHelpers.output.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorCoreGenerate.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Home\Test1.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Next\Main.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_InventoryInput.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_PartialOrExcelSubmit.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_TargetTable.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\Main.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_DelayedSO.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetAddToIPO.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetDelayedIPO.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetDelayedSO.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetGTD.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetKPIMZ.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetLackOfItems.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetLackOfItemsForSO.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetLoadPrice.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetLoadPurchasePriceToQuote.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetReception.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetRejectedSO.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetShipmentFromVendor.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_GetUpdateDeliveryDates.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_LoadPrice.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_LoadPurchasePriceToQuote.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_SheetLoadPurchasePriceToQuote.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Sheets\_UpdateDeliveryDates.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cache
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.RazorTargetAssemblyInfo.cs
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.Views.pdb
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Elcom.csproj.CopyComplete
+C:\Users\asadykov\source\repos\foms-smev-service\Elcom\obj\Oracle\netcoreapp2.1\Razor\Views\Shared\_Input.g.cshtml.cs

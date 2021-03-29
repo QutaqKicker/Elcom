@@ -1,0 +1,9 @@
+﻿@using (Html.BeginForm("GetUpdateDeliveryDates", "Sheets", FormMethod.Get))
+{
+<textarea id="vendorNumbers" rows="10" cols="8" name="vendorNumbers"></textarea>
+<textarea id="dates" rows="10" cols="8" name="dates"></textarea>
+<textarea id="numberPOs" rows="10" cols="8" name="numberPOs"></textarea>
+<textarea id="numberIPOs" rows="10" cols="8" name="numberIPOs"></textarea>
+<p><input type="submit" value="Выгрузить" /></p>
+}
+<button type="button" class="btn btn-outline-primary btn-sm btn-block workingButton" onclick="UploadFromClipboardTo(['vendorNumbers', 'dates', 'numberPOs', 'numberIPOs']);">Выгрузить из буфера обмена</button>

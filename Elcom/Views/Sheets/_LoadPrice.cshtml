@@ -1,0 +1,42 @@
+﻿@using System.Data
+@model DataTable;
+
+<div>
+    <button onclick="LoadPriceSubmit()">Сформировать файл импорта</button>
+    <button onclick="console.log($(`#Complete0`).innerHTML);">Отправить</button>
+    <table>
+        <tr>
+            @foreach (DataColumn col in @Model.Columns)
+            {
+                <td>@col.ColumnName</td>
+            }
+            <td>Новая цена</td>
+        </tr>
+        @{ var i = 0; }
+        @foreach (DataRow row in @Model.Rows)
+        {
+            <tr>
+                @foreach (var item in row.ItemArray)
+                {
+                    <td>@item.ToString()</td>
+                }
+                <td>
+                    <form class="NewPricesToLoadIPO">
+                        <input type="hidden" name="IPONumber" value="@row["Номер_заказа"]"/>
+                        <input type="hidden" name="LineNumber" value="@row["Номер_строки"]"/>
+                        <input type="hidden" name="ItemNumber" value="@row["Номер_товара"]"/>
+                        <input type="text" name="NewPrice" value=""/>
+                    </form>
+                </td>
+                @{ i++; }
+            </tr>
+        }
+    </table>
+</div>
+
+@Html.BeginForm("GetImportFileForLoadPrice", "Sheets", FormMethod.Get, new {id="LoadPrices"}){
+<input type="hidden" name="numberIPOs" id="numberIPOsLoadPrice"/>
+<input type="hidden" name="lineNumbers" id="lineNumbersLoadPrice"/>
+<input type="hidden" name="itemNumbers" id="itemNumbersLoadPrice"/>
+<input type="hidden" name="newPrices" id="newPricesLoadPrice"/>
+}

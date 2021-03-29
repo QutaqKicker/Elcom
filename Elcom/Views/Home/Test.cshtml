@@ -1,0 +1,28 @@
+﻿@using System.Data
+@model DataTable;
+
+<div>
+    <button onclick="UpdateSalesOrders()">Отправить</button>
+    <table>
+        <tr>
+            <td>Успех</td>
+            @foreach (DataColumn col in @ViewBag.table.Columns)
+            {
+                <td>@col.ColumnName</td>
+            }
+        </tr>
+        @{ var i = 0; }
+        @foreach (DataRow row in @ViewBag.table.Rows)
+        {
+            <td id="Complete$@i">Ожидание$@i</td>
+            i++;
+        <tr>
+                @foreach (var item in row.ItemArray)
+                {
+                    <td>@item.ToString()</td>
+                }
+            </tr>
+        }
+
+    </table>
+</div>

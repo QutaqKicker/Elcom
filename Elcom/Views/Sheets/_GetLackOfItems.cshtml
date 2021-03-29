@@ -1,0 +1,5 @@
+﻿@using (Html.BeginForm("GetLackOfItems", "Sheets", FormMethod.Get))
+{
+    @Html.Partial("_InventoryInput");
+    @Html.Partial("_PartialOrExcelSubmit");
+}

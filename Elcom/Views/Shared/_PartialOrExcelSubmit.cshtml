@@ -1,0 +1,12 @@
+@model Elcom.Models.Action
+<input type="hidden" name="partial" />
+<div class="row">
+    <div class="col">
+        <button type="button" class="btn btn-outline-primary btn-sm btn-block workingButton" onclick="SubmitPartial(this.form);">@Model.NameRus</button>
+    </div>
+</div>
+<div class="row">
+    <div class="col">
+        <button type="button" class="btn btn-outline-primary btn-sm btn-block workingButton" onclick="SubmitExcel(this.form);">@Model.NameRus в EXCEL</button>
+    </div>
+</div>

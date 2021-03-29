@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<button onclick="LoadPartial()">
+    Подгрузка частичного представления
+</button>
+<script>
+    function LoadPartial() {
+        $("#target").load("/Home/PartialTest");  
+    };
+</script>
+
+<div id='target'></div>

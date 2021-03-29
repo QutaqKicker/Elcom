@@ -1,0 +1,45 @@
+﻿@using System.Data
+@model DataTable;
+
+<div class="row">
+    <div class="col">
+        <button type="button" class="btn btn-outline-primary btn-sm btn-block workingButton" onclick="UpdateSalesOrders();">Отправить</button>
+    </div>
+</div>
+<table class="contentTable" style="display: block;">
+    <thead>
+    <tr>
+        <th>Успех</th>
+        <th>Отправить запрос МП</th>
+        @foreach (DataColumn col in @Model.Columns)
+        {
+            <th>@col.ColumnName</th>
+        }
+    </tr>
+    </thead>
+    <tbody>
+    @{ var i = 0; }
+    @foreach (DataRow row in @Model.Rows)
+    {
+        <tr>
+            <td>
+                <div id="Complete@(i)">Ожидание</div></td>
+            <td>
+                @using (Html.BeginForm("UpdateDelayedSO", "Sheets", FormMethod.Post, new {@class = "UpdateSO"}))
+                {
+                <input type="checkbox" name="post" value="@(i)" />
+                <input type="hidden" name="orderNumber" value="@row["Заказа_клиента_Но"]" />
+                <input type="hidden" name="lineNumber" value="@row["Строка_Но"]" />
+                <input type="hidden" name="delayedDays" value="@row["Дни_задержки_кол_во"]" />
+                <input type="hidden" name="supplementaryText5" value="@row["Дни_задержки"]" />
+                }
+                @{ i++; }
+            </td>
+            @foreach (var item in row.ItemArray)
+            {
+                <td>@item.ToString()</td>
+            }
+        </tr>
+    }
+    </tbody>
+</table>

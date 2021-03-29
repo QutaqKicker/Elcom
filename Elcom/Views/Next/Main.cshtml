@@ -1,0 +1,84 @@
+﻿@using Action = Elcom.Models.Action
+@using Sheet = Elcom.Models.Sheet
+@using Param = Elcom.Models.Param
+@model List<Sheet>
+<div class="container-fluid">
+        <div class="row">
+            <div class="col-2">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col workingSubject">
+                            <h6>Выберите лист:</h6>
+                        </div>
+                    </div>
+                    <div class="workingFieldLittle">
+                        @foreach (Sheet sheet in @Model)
+                        {
+                        <div class="row">
+                            <div class="col">
+                                <a class="subject" href="#" onclick="ShowSheet('@sheet.Name');">@sheet.Description</a>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                    <div class="row">
+                        <div class="col workingSubject" id="caption">
+                            <h6>Выберите действие:</h6>
+                        </div>
+                    </div>
+                    <div class="workingFieldLittle">
+                        @foreach (Sheet sheet in @Model)
+                            {
+                            <div id="@sheet.Name" class="Sheets" style="display:none">@Html.Partial("_" + @sheet[3])
+                                @foreach (Action action in sheet.Actions)
+                                {
+                                    @using (Html.BeginForm("GetCommonSheet", "Next", FormMethod.Post))
+                                    {
+                                        <input name="sheet" type="hidden" value="@sheet.Name"/>
+                                        <input name="action" type="hidden" value="@action.Id"/>
+                                        @foreach (Param param in action.parameters)
+                                        {
+                                            @Html.Partial("_Input", param)
+                                        }
+                                        @Html.Partial("_PartialOrExcelSubmit", action)
+                                    }
+                                }
+                            </div>
+                            }
+                    </div>
+                </div>
+            </div>
+            <div class="col-10">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div id="TargetTable" class="col workingField" style="display: block;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="LoadingModal" class="modal" tabindex="-1" role="dialog" display="none">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Происходит загрузка данных</h4>
+                    </div>
+                    <div class="modal-body">
+                        Пожалуйста, подождите
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script>
+    var CurrentSheet = "Dates";
+    function ShowSheet(sheetName) {
+        try {
+            document.getElementById(CurrentSheet).style.display = "none";
+        }
+        catch (e) {
+        }
+        document.getElementById(sheetName).style.display = "block";
+        CurrentSheet = sheetName;
+        }
+</script>

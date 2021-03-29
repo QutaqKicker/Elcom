@@ -1,0 +1,26 @@
+﻿@using (Html.BeginForm("GetKPIMZ", "Sheets", FormMethod.Get))
+{
+    <div class="row">
+        <div class="col">
+            <input type="date" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Введите период с дд.мм.гг" placeholder="Дата" name="fromDate" required>
+        </div>	
+    </div>
+    <div class="row">
+        <div class="col">
+            <input type="date" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Введите период по дд.мм.гг" placeholder="Дата" name="toDate" required>
+        </div>	
+    </div>
+    <div class="row">
+        <div class="col">									
+            <input type="radio" id="onlyZK" class="workingButton" data-toggle="tooltip" title="Выберите, если нужна выгрузка по КП" placeholder="Только под КП" name="orderType" value="KP">
+            <label for="onlyZK"><p>Выгрузка по КП</p></label>
+        </div>	
+    </div>
+    <div class="row">
+        <div class="col">									
+            <input type="radio" id="onlyZK" class="workingButton" data-toggle="tooltip" title="Выберите, если нужна выгрузка по ЗК" placeholder="Только под ЗК" name="orderType" value="SO">
+            <label for="onlyKP"><p>Выгрузка по ЗК</p></label>
+        </div>	
+    </div>
+    @Html.Partial("_PartialOrExcelSubmit")
+}

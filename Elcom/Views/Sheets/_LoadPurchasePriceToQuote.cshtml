@@ -1,0 +1,13 @@
+﻿@using (Html.BeginForm("GetLoadPurchasePriceToQuote", "Sheets", FormMethod.Get))
+{
+    <textarea id="LoadPriceToQuoteOrderNumbers" rows="10" cols="8" name="orderNumbers"></textarea>
+    <textarea id="LoadPriceToQuoteLineNumbers" rows="10" cols="8" name="lineNumbers"></textarea>
+    <textarea id="LoadPriceToQuoteAmount4s" rows="10" cols="8" name="amount4s"></textarea>
+    
+    <p>Срок актуальности счета до:</p>
+    <input type="text" name="date1"/>
+    
+    <button onclick="UploadFromClipboardTo(['LoadPriceToQuoteOrderNumbers', 'LoadPriceToQuoteLineNumbers', 'LoadPriceToQuoteAmount4s']);">Выгрузить из буфера обмена</button>
+    
+    <p><input type="submit" value="Выгрузить" /></p>
+}

@@ -1,0 +1,16 @@
+@using Elcom.Models
+<div class="row">
+          <div class="col">
+              <select class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Выберите склад" name="inventory">
+                  <option disabled selected>Выберите склад</option>
+                  @*
+                  <option value="1">Казань</option>
+                  <option value="2">Не казань</option>
+                      *@
+                  @foreach (var inv in Options.Inventories)
+                  {
+                      <option value="@inv.Number">@inv.Name</option>
+                  }
+              </select>
+          </div>
+      </div>

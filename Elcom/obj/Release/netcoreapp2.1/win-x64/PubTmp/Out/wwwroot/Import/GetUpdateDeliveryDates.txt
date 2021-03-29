@@ -1,0 +1,12 @@
+ITEMPURCHASELINE:FORMAT	ItemPurchaseOrderNumber	LineNumber	ItemNumber	Date2	ExpectedCommitmentDate	Date1	Date4	
+ITEMPURCHASELINE:CREATE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo."EmploymentReportData"	emp_dynamics_insured_get	emp_processed_dynamics_insurance_report	emp_processed_dynamics_insurance_report	
+ITEMPURCHASELINE:CHANGE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo."EmploymentReportData"	emp_dynamics_insured_get	emp_processed_dynamics_insurance_report	emp_processed_dynamics_insurance_report	
+ITEMPURCHASELINE:CREATE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo.tbl_att_phn_death	GetProtocolDataPHN_DEATH			
+ITEMPURCHASELINE:CHANGE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo.tbl_att_phn_death	GetProtocolDataPHN_DEATH			
+ITEMPURCHASELINE:CREATE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo.tbl_att_phn_inact	GetProtocolDataPHN_INACT			
+ITEMPURCHASELINE:CHANGE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo.tbl_att_phn_inact	GetProtocolDataPHN_INACT			
+ITEMPURCHASELINE:CREATE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo.tbl_smev_snils_nf	GetProtocolDataSNILS_NF	sp_smev_snils_emf	sp_smev_snils_emf	
+ITEMPURCHASELINE:CHANGE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo.tbl_smev_snils_nf	GetProtocolDataSNILS_NF	sp_smev_snils_emf	sp_smev_snils_emf	
+ITEMPURCHASELINE:CREATE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo."Analize"	GetProtocolDataPHN_NF	GetReportAnalize_Before	GetReportAnalize_Before	
+ITEMPURCHASELINE:CHANGE	REPORTDATA	1	itemnumber	"REPORTDATA".dbo."Analize"	GetProtocolDataPHN_NF	GetReportAnalize_Before	GetReportAnalize_Before	
+

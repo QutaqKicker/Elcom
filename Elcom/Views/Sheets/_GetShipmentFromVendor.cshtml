@@ -1,0 +1,20 @@
+﻿@using (Html.BeginForm("GetShipmentFromVendor", "Sheets", FormMethod.Get))
+{
+    <div class="row">
+        <div class="col">
+            <input type="text" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="№ поставщика" placeholder="№ поставщика" name="vendorNumber" required>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <input type="date" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Выберите дату поездки дд.мм.гг" placeholder="Дата" name="shipmentDate" required>
+        </div>	
+    </div>
+    <div class="row">
+        <div class="col">
+            <label for="onlyZK"><p>Только под ЗК</p></label>
+            <input type="checkbox" name="checkSO" class="workingButton" data-toggle="tooltip" title="Выберите, если нужна выгрузка только под ЗК" placeholder="Только под ЗК">
+        </div>	
+    </div>
+    @Html.Partial("_PartialOrExcelSubmit")
+}

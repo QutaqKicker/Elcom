@@ -1,0 +1,19 @@
+﻿@using (Html.BeginForm("GetAddToIPO", "Sheets", FormMethod.Get))
+{
+    <div class="row">
+        <div class="col">
+            <input type="text" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="№ поставщика" placeholder="№ Поставщика" name="vendorNumber"required>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <select class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Выберите период" name="inventory">
+                <option disabled selected>Выберите период</option>
+                <option value="1">1 месяц</option>
+                <option value="3">3 месяца</option>
+                <option value="6">6 месяцев</option>
+            </select>
+        </div>
+    </div>
+    @Html.Partial("_PartialOrExcelSubmit")
+}

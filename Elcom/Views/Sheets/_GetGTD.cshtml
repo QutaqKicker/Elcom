@@ -1,0 +1,20 @@
+﻿@using (Html.BeginForm("GetGTD", "Sheets", FormMethod.Get))
+{
+    <div class="row">
+        <div class="col">
+            <input type="text" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="№ товара" placeholder="№ товара" name="itemNumber" required>
+        </div>
+    </div>
+    @Html.Partial("_InventoryInput")
+    <div class="row">
+        <div class="col">
+            <input type="date" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Введите период с дд.мм.гг" placeholder="Дата" name="fromDate" required>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <input type="date" class="btn btn-outline-primary btn-sm btn-block workingButton" data-toggle="tooltip" title="Введите период по дд.мм.гг" placeholder="Дата" name="toDate" required>
+        </div>
+    </div>
+    @Html.Partial("_PartialOrExcelSubmit")
+}

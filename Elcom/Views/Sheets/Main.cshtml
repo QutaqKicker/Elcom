@@ -1,0 +1,154 @@
+﻿@using System.Data
+@model System.Data.DataTable
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-2">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col workingSubject">
+                            <h6>Выберите лист:</h6>
+                        </div>
+                    </div>
+                    <div class="workingFieldLittle">
+                        @foreach (DataRow row in @Model.Rows)
+                        {
+                        <div class="row">
+                            <div class="col">
+                                <a class="subject" href="#" onclick="ShowSheet('@row[3]');">@row[0]</a>
+                            </div>
+                        </div>
+                        }
+                        @*
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetDelayedIPO');">DelayedIPO</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetDelayedSO');">GetDelayedSO</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetUpdateDeliveryDates');">GetUpdateDeliveryDates</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetReceipt');">GetReceipt</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetLoadPrice');">GetLoadPrice</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetLackOfItems');">GetLackOfItems</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetGTD');">GetGTD</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetLackOfItemsSheetForSO');">GetLackOfItemsSheetForSO</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetRejectedSO');">GetRejectedSO</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('AddToIPO');">AddToIPO</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('GetKPIMZ');">GetKPIMZ</a></div></div>
+            <div class="row"><div class="col"><a class="subject" href="#" onclick="ShowSheet('SheetLoadPurchasePriceToQuote');">SheetLoadPurchasePriceToQuote</a></div></div>
+                        *@
+                    </div>
+                    <div class="row">
+                        <div class="col workingSubject" id="caption">
+                            <h6>Выберите действие:</h6>
+                        </div>
+                    </div>
+                    <div class="workingFieldLittle">
+                        @foreach (DataRow row in @Model.Rows)
+                            {
+                        <div id="@row[3]" class="Sheets" style="display:none">@Html.Partial("_" + @row[3])</div>
+                            }
+                    </div>
+                    @*
+        <div class="workingFieldLittle">
+            <div id="GetDelayedIPO" class="Sheets" style="display:none">@Html.Partial("_GetDelayedIPO")</div>
+            <div id="GetDelayedSO" class="Sheets" style="display:none">@Html.Partial("_GetDelayedSO")</div>
+            <div id="GetUpdateDeliveryDates" class="Sheets" style="display:none">@Html.Partial("_GetUpdateDeliveryDates")</div>
+            <div id="GetReceipt" class="Sheets" style="display:none">@Html.Partial("_GetReception")</div>
+            <div id="GetLoadPrice" class="Sheets" style="display:none">@Html.Partial("_GetLoadPrice")</div>
+            <div id="GetLackOfItems" class="Sheets" style="display:none">@Html.Partial("_GetLackOfItems")</div>
+            <div id="GetGTD" class="Sheets" style="display:none">@Html.Partial("_GetGTD")</div>
+            <div id="GetRejectedSO" class="Sheets" style="display:none">@Html.Partial("_GetRejectedSO")</div>
+            <div id="AddToIPO" class="Sheets" style="display:none">@Html.Partial("_AddToIPO")</div>
+            <div id="GetKPIMZ" class="Sheets" style="display:none">@Html.Partial("_GetKPIMZ")</div>
+            <div id="SheetLoadPurchasePriceToQuote" class="Sheets" style="display:none">@Html.Partial("_SheetLoadPurchasePriceToQuote")</div>
+        </div>
+                    *@
+                </div>
+            </div>
+            <div class="col-10">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div id="TargetTable" class="col workingField" style="display: block;">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade" id="exampleModalLong" tabindex="-1" role="dialog" aria-labelledby="instructionTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="instructionTitle">Инструкция к CMacros</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <div class="col-3 list-group instructionField" id="instruction">
+                                    <a class="list-group-item list-group-item-action" href="#list-item-1">Задерживается ЗП</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-2">Задерживается ЗК</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-3">Приемка</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-4">Дефицит под ЗК</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-5">ГТД</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-6">Отказы по ЗК</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-7">KPI МЗ</a>
+                                    <a class="list-group-item list-group-item-action" href="#list-item-8">Отгрузка от поставщика</a>
+                                </div>
+                                <div data-spy="scroll" data-target="#instruction" data-offset="0" class="col-9 scrollspy-example instructionField">
+
+                                    <h6 id="list-item-1">Задерживается ЗК</h6>
+                                    <p class="instructionText">Нажмите "Обновить". Выгрузятся все задерживающиеся позиции. Внимание! Если в столбце "Дни задержки" указано "Обновите сроки ЗК", это означает, что по данной строке не были обновлены дни задержки, и отправить письмо МП нельзя. Для того, чтобы эта позиция стала доступной для отпраки письма МП, обновите сроки в Макономи и еще раз выгрузите данные в макросе.<br>Если Вы не можете ускорить поставку задерживающейся позиции, то  для отправки письма МП в столбце "Решение по позиции" выберите значение "Отправить запрос МП". Нажмите "Отправить запрос МП". В столбце "Ваш запрос" можно увидеть результат отправки письма. В случае успешной загрузки данных в Maconomy появится отметка "Отправлен" в исходной строке. Если запрос отправлен не был, необходимо повторно выбрать "Отправить запрос МП".<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-2" class="">Задерживается ЗП</h6>
+                                    <p class="instructionText">Выберите склад и нажмите "Выгрузить". На странице появятся данные по задерживающимся позициям, у которых ожидаемая дата прихода раньше раньше сегодняшнего дня.<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-3">Приемка</h6>
+                                    <p class="instructionText">Выберите склад и нажмите "Обновить". На странице появятся данные о товарах на приходе по выбранному складу.<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-4">Дефицит под ЗК</h6>
+                                    <p class="instructionText">Отчет выдает информацию о недостающих товарах под заказы клиентов, под которые еще не созданы заказы поставщикам.<br>Нажмите "Обновить". На странице появятся недостающие позиции под заказы клиентов. По выгруженным номерам поставщиков нужно собрать заказы поставщикам под заказы клиентов. Как только заказы поставщикам будут созданы, данные позиции не отобразятся при повторной выгрузке.<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-5">ГТД</h6>
+                                    <p class="instructionText">Отчет выдает информацию о партиях товара, когда-либо оприходованных на складе.<br>Введите номер товара в поле ввода (это поле обязательно для заполнения!), а также заполните другие фильтры (можно устаналивать условие на одну из границ даты создания партии!), далее выберите "Выгрузить". В появившейся фрме введите нужные фильтры и нажмите ОК.<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-6">Отказы по ЗК</h6>
+                                    <p class="instructionText">Отчет выдает информацию по обнулениям и отказам от позиций из за срыва сроков в ЗК. Выгружаются только необработанные позиции.<br>Нажмите "Выгрузить". На странице появятся все необработанные обнуления и отказы от позиций, по которым требуется вмешательство МЗ.<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-7">KPI МЗ</h6>
+                                    <p class="instructionText">В окне "Работа с листом" выберите необходимые параметры и нажмите "Выгрузить".<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+
+                                    <h6 id="list-item-8">Отгрузка от поставщика</h6>
+                                    <p class="instructionText">В окне "Работа с листом" выберите необходимые параметры и нажмите "Выгрузить".<br>Для выгрузки отчета в xlsx используйте кнопку "Выгрузить в xslx".</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-outline-primary" data-dismiss="modal">ОК</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="LoadingModal" class="modal" tabindex="-1" role="dialog" display="none">
+            <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Происходит загрузка данных</h4>
+                    </div>
+                    <div class="modal-body">
+                        Пожалуйста, подождите
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<script>
+    var CurrentSheet = "Dates";
+    function ShowSheet(sheetName) {
+        try {
+            document.getElementById(CurrentSheet).style.display = "none";
+        }
+        catch (e) {
+        }
+        document.getElementById(sheetName).style.display = "block";
+        CurrentSheet = sheetName;
+        }
+</script>
